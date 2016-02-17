@@ -1,14 +1,26 @@
-layout_spectrum: 0.6954888
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6898496
 color:
   saturation: 0.6696481
-  lightness: 0.8991765
   brandStrength: 0.7424812
+  rhythmicContrast: 0.6874354
   brandColors:
     - '#CDD9CE'
     - '#384140'
     - '#0E0F0E'
     - '#666E6E'
     - '#91999B'
-  rhythmicContrast: 0.6874354
+  lightness: 0.8991765
+layout_spectrum: 0.9743108
 name: Modular
