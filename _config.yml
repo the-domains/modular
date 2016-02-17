@@ -1,0 +1,14 @@
+layout_spectrum: 0.6954888
+typography_spectrum: 0.6898496
+color:
+  saturation: 0.6696481
+  lightness: 0.8991765
+  brandStrength: 0.7424812
+  brandColors:
+    - '#CDD9CE'
+    - '#384140'
+    - '#0E0F0E'
+    - '#666E6E'
+    - '#91999B'
+  rhythmicContrast: 0.6874354
+name: Modular
