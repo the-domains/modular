@@ -1,7 +1,7 @@
 name: Modular
 favicon: null
 layout_spectrum: 0.62879
-typography_spectrum: 0.53324
+typography_spectrum: 0.64873
 collections:
   - index:
       path: /
@@ -28,12 +28,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#CDD9CE'
-    - '#384140'
-    - '#0E0F0E'
-    - '#666E6E'
-    - '#91999B'
-  brandStrength: 0.375
+    - '#e5dcd7'
+    - '#255b4d'
+    - '#15110e'
+    - '#7d6b5d'
+    - '#88a47b'
+  brandStrength: 0.5625
   lightness: 0.5625
   saturation: 0.6696481
   rhythmicContrast: 0.6874354
