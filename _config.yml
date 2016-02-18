@@ -1,3 +1,7 @@
+name: Modular
+favicon: null
+layout_spectrum: 0.67254
+typography_spectrum: 0.6898496
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.6898496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6696481
-  brandStrength: 0.7424812
-  rhythmicContrast: 0.6874354
   brandColors:
     - '#CDD9CE'
     - '#384140'
     - '#0E0F0E'
     - '#666E6E'
     - '#91999B'
+  brandStrength: 0.7424812
   lightness: 0.8991765
-layout_spectrum: 0.4266917
-name: Modular
+  saturation: 0.6696481
+  rhythmicContrast: 0.6874354
+purpose: []
