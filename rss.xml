@@ -4,7 +4,7 @@
         <description><![CDATA[Experiments with Modules]]></description>
         <link>https://thegrid.ai/modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 19:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 19:50:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modular/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/modular/spiral-lock/index.html</link>
             <guid isPermaLink="false">4cc68bb1-14d3-42d9-a4ce-dbe978a45ab2</guid>
             <pubDate>Thu, 18 Feb 2016 19:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trimmings Module]]></title>
-            <description><![CDATA[<article><h1>Trimmings Module</h1><p>Trimmings Standing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b82654eb2891929d949bf31afa41363663fab08.png"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/72d2aab8-9b84-438e-b5ca-01be11aeb981.png</link>
-            <guid isPermaLink="false">a822c4f6-ca8b-4ed3-b1b0-f31fd5cd515e</guid>
-            <pubDate>Thu, 18 Feb 2016 19:47:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
