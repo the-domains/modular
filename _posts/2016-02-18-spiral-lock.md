@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T19:29:19.950Z'
-dateModified: '2016-02-18T19:28:58.908Z'
+datePublished: '2016-02-18T19:48:39.862Z'
+dateModified: '2016-02-18T19:48:39.467Z'
 title: Spiral Lock
 author: []
+sourcePath: _posts/2016-02-18-spiral-lock.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-spiral-lock.md
-published: true
 url: spiral-lock/index.html
 _type: Article
 
