@@ -1,45 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Modular]]></title>
-        <description><![CDATA[Modular]]></description>
-        <link>https://thegrid.ai/modular/</link>
+        <title><![CDATA[sister naomi]]></title>
+        <description><![CDATA[sister naomi]]></description>
+        <link>https://thegrid.ai/sister-naomi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 05:25:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/modular/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 18:49:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sister-naomi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/611902f4-ade6-4a57-a165-b16ea87507e7.png">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/611902f4-ade6-4a57-a165-b16ea87507e7.png</link>
-            <guid isPermaLink="false">10c64360-018e-4927-8ddb-da9ee1172732</guid>
-            <pubDate>Thu, 18 Feb 2016 05:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Folding instructions ]]></title>
-            <description><![CDATA[<article><h1>Folding instructions </h1><p>This is a 3 unit origami modular tricorne. A tricorne is a three-corner hat that was popular in the 18th century. While we're not certain if this design by David Mitchell is meant to be a hat, it is an interesting modular origami anyway so do try folding it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c3a48fdd38f97992a49d3e6d35fa02b728fa077.jpg"></article>]]></description>
-            <link>http://www.origami-instructions.com/origami-modular-tricorne.html</link>
-            <guid isPermaLink="false">f9d8b992-0bc5-482a-aa6f-8488ce20a90a</guid>
-            <pubDate>Wed, 17 Feb 2016 22:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72d2aab8-9b84-438e-b5ca-01be11aeb981.png">]]></description>
-            <link>https://thegrid.ai/modular/a822c4f6-ca8b-4ed3-b1b0-f31fd5cd515e/index.html</link>
-            <guid isPermaLink="false">a822c4f6-ca8b-4ed3-b1b0-f31fd5cd515e</guid>
-            <pubDate>Wed, 17 Feb 2016 22:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07e57cec-e95b-4e72-a3c5-edc711c05542.png">]]></description>
-            <link>https://thegrid.ai/modular/63ee3f8f-0645-4f75-98a3-27de105d6c9b/index.html</link>
-            <guid isPermaLink="false">63ee3f8f-0645-4f75-98a3-27de105d6c9b</guid>
-            <pubDate>Wed, 17 Feb 2016 22:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae32af8-3971-40fc-8066-8a2cc554e1cb.png">]]></description>
-            <link>https://thegrid.ai/modular/83b28e9c-1009-4db1-a068-407a3bf8603a/index.html</link>
-            <guid isPermaLink="false">83b28e9c-1009-4db1-a068-407a3bf8603a</guid>
-            <pubDate>Wed, 17 Feb 2016 22:00:45 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4846119-828a-4cdf-a615-c4876abcf8a2.png">]]></description>
+            <link>https://thegrid.ai/sister-naomi/5d2f228a-118d-4e51-996d-7756e7ecb826/index.html</link>
+            <guid isPermaLink="false">5d2f228a-118d-4e51-996d-7756e7ecb826</guid>
+            <pubDate>Wed, 17 Feb 2016 22:20:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
